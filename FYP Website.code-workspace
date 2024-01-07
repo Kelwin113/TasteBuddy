@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../FYP/unsupervised-predict-streamlit-template"
+		},
+		{
+			"path": "../FYP/Diet-Recommendation-System-main"
+		}
+	],
+	"settings": {}
+}
